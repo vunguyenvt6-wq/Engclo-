@@ -1,5 +1,6 @@
 {
-  "version": "1.0.4",
-  "download_url": "https://github.com/vunguyenvt6-wq/Engclo-/releases/download/v1.0.4/engclo.zip",
-  "changelog": "- Gộp quản lý danh mục vào Kho từ vựng\n- Thêm bảng thống kê tiến độ ôn tập & hiệu suất Quiz\n- Đổi tên tab Dữ liệu thành Cài đặt"
+  "version": "1.0.5",
+  "min_version": "1.0.5",
+  "download_url": "https://github.com/vunguyenvt6-wq/Engclo-/releases/download/v1.0.5/engclo.zip",
+  "changelog": "- Gộp quản lý danh mục vào Kho từ vựng\n- Thêm bảng thống kê tiến độ ôn tập & hiệu suất Quiz\n- Đổi tên tab Dữ liệu thành Cài đặt\n- Hỗ trợ chế độ bắt buộc cập nhật an toàn"
 }
