@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/vunguyenvt6-wq/Engclo-/releases/download/v1.0.3/engclo.zip",
-  "changelog": "- Đổ màu xanh cỏ 4 lá cho thanh tiêu đề bảng lưu từ\n- Bỏ menu chọn từ/câu thừa, tự động nhận diện ngầm 100%\n- Tăng tốc độ và độ ổn định kiểm tra cập nhật qua CDN"
+  "version": "1.0.4",
+  "download_url": "https://github.com/vunguyenvt6-wq/Engclo-/releases/download/v1.0.4/engclo.zip",
+  "changelog": "- Gộp quản lý danh mục vào Kho từ vựng\n- Thêm bảng thống kê tiến độ ôn tập & hiệu suất Quiz\n- Đổi tên tab Dữ liệu thành Cài đặt"
 }
