@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/vunguyenvt6-wq/Engclo-/releases/download/v1.0.1/engclo.zip",
-  "changelog": "- Cố định Extension ID chống mất dữ liệu khi cập nhật\n- Tích hợp theo dõi cài mới & đang online qua GA4\n- Thêm tính năng tự kiểm tra phiên bản mới\n- Đổi tên thành Engclo và đồng bộ logo cỏ 4 lá toàn diện"
+  "version": "1.0.2",
+  "download_url": "https://github.com/vunguyenvt6-wq/Engclo-/releases/download/v1.0.2/engclo.zip",
+  "changelog": "- Tự động hiện thanh thông báo cập nhật trên đầu trang\n- Tối ưu giao diện quản lý từ vựng gọn gàng hơn\n- Sửa lỗi hiển thị và nâng cao độ ổn định"
 }
