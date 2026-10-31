@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "min_version": "1.0.8",
-  "download_url": "https://github.com/vunguyenvt6-wq/Engclo-/releases/download/v1.0.8/engclo.zip",
-  "changelog": "- Tách riêng phát âm chuẩn 2 giọng US và UK kèm phiên âm IPA\n- Thiết kế lại bảng tra cứu thành 5 vùng thẻ độc lập, hiện đại\n- Tách hẳn định nghĩa tiếng Anh thành khối riêng biệt, dễ đọc\n- Hoàn thiện cơ chế khóa bắt buộc cập nhật an toàn"
+  "version": "1.0.10",
+  "min_version": "1.0.10",
+  "download_url": "https://github.com/vunguyenvt6-wq/Engclo-/releases/download/v1.0.10/engclo.zip",
+  "changelog": "- Tách riêng tab Góp ý & Báo lỗi kèm tiếp sức cà phê tác giả\n- Bỏ số liệu thống kê ở góc trên bên phải header cho thoáng mắt\n- Cắt bỏ hoàn toàn viền trắng logo, nền cỏ 4 lá trong suốt 100%"
 }
