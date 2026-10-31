@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "min_version": "1.0.11",
-  "download_url": "https://github.com/vunguyenvt6-wq/Engclo-/releases/download/v1.0.11/engclo.zip",
-  "changelog": "- Tích hợp sẵn file Hướng dẫn sử dụng trực quan trong file tải về\n- Hướng dẫn chi tiết cách thêm extension trên Chrome & cập nhật an toàn không mất dữ liệu\n- Giới thiệu trọn bộ tính năng tra từ, ôn tập Flashcard và Quiz game"
+  "version": "1.0.12",
+  "min_version": "1.0.12",
+  "download_url": "https://github.com/vunguyenvt6-wq/Engclo-/releases/download/v1.0.12/engclo.zip",
+  "changelog": "- Thêm liên kết Google Drive tải phần mềm & hướng dẫn vào tab Giới thiệu và Footer\n- Thêm nút 1 chạm sao chép link chia sẻ lan tỏa cộng đồng\n- Cập nhật thư mục tải Google Drive trong tài liệu hướng dẫn"
 }
