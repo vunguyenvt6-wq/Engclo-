@@ -1,6 +1,6 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.14",
   "min_version": "1.0.12",
-  "download_url": "https://github.com/vunguyenvt6-wq/Engclo-/releases/download/v1.0.12/engclo.zip",
-  "changelog": "- Thêm liên kết Google Drive tải phần mềm & hướng dẫn vào tab Giới thiệu và Footer\n- Thêm nút 1 chạm sao chép link chia sẻ lan tỏa cộng đồng\n- Cập nhật thư mục tải Google Drive trong tài liệu hướng dẫn"
+  "download_url": "https://github.com/vunguyenvt6-wq/Engclo-/releases/download/v1.0.14/engclo.zip",
+  "changelog": "- Thêm phím tắt Alt+C để mở màn hình Từ điển tra cứu, dùng như 1 ứng dụng chạy độc lập trên Windown\n- Thêm chức năng Từ điển tra cứu từ vựng thủ công, chức năng mở sidebar cho phép tra cứu realtime chỉ cần bôi đen\n- Thêm icon cỏ 4 lá ở lề phải trang web, để tra cứu và vào trang quản lý từ vựng\n- Bổ sung phiên âm US/UK, phát âm, nghĩa theo từ loại, định nghĩa và ví dụ\n- Thêm Hướng dẫn sử dụng\n- Bổ sung liên hệ/góp ý Zalo trong Footer, Giới thiệu và Góp ý/Báo lỗi\n- Thêm khu vực hiển thị tính năng mới trong tab Cài đặt"
 }
